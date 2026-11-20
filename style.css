@@ -80,3 +80,9 @@ footer{margin-top:36px;font-size:14px;color:var(--mut);text-align:center}
 #replaced details summary{cursor:pointer;list-style:none}#replaced details summary::-webkit-details-marker{display:none}
 #replaced summary h2{display:inline}#replaced summary::after{content:" ▾ 展开";color:var(--mut);font-size:14px}#replaced details[open] summary::after{content:" ▴ 收起"}
 .howto .st.mid{background:#fff4dc;color:#8a5a00;border:1px solid #e8c36a}
+.fcards{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px;margin:8px 0 16px}
+.fcard{background:#fff;border:1px solid #dde3ea;border-radius:12px;padding:12px 14px}.fh{font-weight:700;margin-bottom:6px}
+.fcard .bv span small{display:block;font-size:12px;color:var(--mut)}.fcard .bv.tot{border-top:1px solid #dde3ea;margin-top:4px;padding-top:6px;font-weight:700}
+.fdet{margin:8px 0 16px}.fdet summary{cursor:pointer;font-weight:600;color:#0f3d5e}.tw{overflow-x:auto}
+.ftable{width:100%;border-collapse:collapse;font-size:14px}.ftable th,.ftable td{padding:6px 4px;border-bottom:1px solid #eef1f4;text-align:right;white-space:nowrap}
+.ftable th:first-child{text-align:left;white-space:normal}.ftable small{display:block;color:var(--mut);font-weight:400;font-size:12px}
