@@ -76,3 +76,7 @@ footer{margin-top:36px;font-size:14px;color:var(--mut);text-align:center}
 .warn{background:#fdecea;border:1px solid #e57373;color:#8b1c1c;border-radius:10px;padding:10px 12px;margin:8px 0;font-weight:600;font-size:15px}
 .callout.warnc{background:#fdecea;border-left-color:#c62828}
 .ref.ns{background:#6d4c41;color:#fff}
+.howto{margin:0;padding-left:18px;line-height:1.9}.howto .st{margin:0 2px}
+#replaced details summary{cursor:pointer;list-style:none}#replaced details summary::-webkit-details-marker{display:none}
+#replaced summary h2{display:inline}#replaced summary::after{content:" ▾ 展开";color:var(--mut);font-size:14px}#replaced details[open] summary::after{content:" ▴ 收起"}
+.howto .st.mid{background:#fff4dc;color:#8a5a00;border:1px solid #e8c36a}
