@@ -75,3 +75,4 @@ footer{margin-top:36px;font-size:14px;color:var(--mut);text-align:center}
 .xl{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}.xl a{font-size:13px;background:#fff0f2;color:#c8102e;border-radius:999px;padding:3px 10px;text-decoration:none}
 .warn{background:#fdecea;border:1px solid #e57373;color:#8b1c1c;border-radius:10px;padding:10px 12px;margin:8px 0;font-weight:600;font-size:15px}
 .callout.warnc{background:#fdecea;border-left-color:#c62828}
+.ref.ns{background:#6d4c41;color:#fff}
