@@ -70,3 +70,8 @@ footer{margin-top:36px;font-size:14px;color:var(--mut);text-align:center}
 .tool button.on{background:#0f3d5e;color:#fff}.tool label{font-size:14px;display:flex;align-items:center;gap:6px}
 .rep li{margin:6px 0}
 .empty{grid-column:1/-1;color:var(--mut);background:#fff;border:1px dashed #c9d2dc;border-radius:12px;padding:14px}
+.ref.hot{background:#ff2442;color:#fff}
+.ad{display:inline-block;background:#fff3cd;color:#8a5a00;border:1px solid #e0b84a;border-radius:4px;font-size:12px;padding:0 5px;margin-right:6px}
+.xl{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}.xl a{font-size:13px;background:#fff0f2;color:#c8102e;border-radius:999px;padding:3px 10px;text-decoration:none}
+.warn{background:#fdecea;border:1px solid #e57373;color:#8b1c1c;border-radius:10px;padding:10px 12px;margin:8px 0;font-weight:600;font-size:15px}
+.callout.warnc{background:#fdecea;border-left-color:#c62828}
